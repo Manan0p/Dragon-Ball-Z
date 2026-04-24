@@ -1,4 +1,4 @@
-# Dragon Ball Z Kamehameha Detector
+# Dragon Ball Z Kamehameha
 
 ![DBZ Demo](assets/dbz.webp)
 
